@@ -1,16 +1,7 @@
-# flutter_demo1
+# flutter_firebase
 
-A new Flutter project.
+Created a Google Sign In authentication sample flutter app integrated with Firebase.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/86294062/183790013-62d2cf55-d41d-4c25-a923-ffa3c7b1a635.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
